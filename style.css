@@ -1,0 +1,33 @@
+body
+{
+    background-color: rgb(151, 223, 180);
+    font-size: 25px;
+    font-family: 'Mynerve', cursive;
+    color: rgb(97, 15, 15);
+}
+
+#show_sketch
+{
+    background-color: brown;
+    color: rgb(151, 223, 180);;
+    font-family: 'Mynerve', cursive;
+    float: right;
+}
+
+#score
+{
+    margin-left: 150px;
+    float: left;
+}
+#timer
+{
+    margin-right: 150px;
+    float: right;
+}
+
+#sketch_to_be_drawn
+{
+    font-style: bold, italic;
+    color: rgb(3, 35, 23);
+}
+
